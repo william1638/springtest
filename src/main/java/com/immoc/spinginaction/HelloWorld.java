@@ -5,5 +5,8 @@ package com.immoc.spinginaction;
  */
 public class HelloWorld {
 
+    public static void main(String[] args) {
+
+    }
 
 }
